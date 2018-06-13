@@ -15,9 +15,10 @@ If the user clicks on an image they're already clicked on in the current round, 
 The application keeps track of the user's Best Score, and updates it when the user achieves a new Best Score.
 
 # Technologies
-JavaScript
-Node.js
-React
+-JavaScript
+-Node.js
+-React
 
 
-## written by Nicole Penmer
+## written by 
+Nicole Penmer
