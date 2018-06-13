@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Bob",
+    "image": "https://www.citytv.com/wp-content/uploads/2017/03/img-hjonbenjamin-bb.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Linda",
+    "image": "https://www.citytv.com/wp-content/uploads/2017/03/img-johnroberts-bb.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Tina",
+    "image": "https://www.citytv.com/wp-content/uploads/2017/03/img-danmintz-bb.jpg"
+  
+  },
+  {
+    "id": 4,
+    "name": "Louise",
+    "image": "https://www.citytv.com/wp-content/uploads/2017/03/img-kristenschaal-bb.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "Gene",
+    "image": "https://www.citytv.com/wp-content/uploads/2017/03/img-eugenemirman-bb.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Teddy",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5e/Teddy.png/revision/latest/scale-to-width-down/150?cb=20130305230745"
+
+  },
+  {
+    "id": 7,
+    "name": "Zeke",
+    "image": "http://i.imgur.com/x14gK7B.png"
+  },
+  {
+    "id": 8,
+    "name": "Jocyln",
+    "image": "http://clipground.com/images/blonde-hair-brown-eyes-clipart-7.jpg"
+   
+  },
+  {
+    "id": 9,
+    "name": "Frond",
+    "image": "https://quizforfan.com/wp-content/uploads/2017/04/mr.jpg",
+  },
+  {
+    "id": 10,
+    "name": "JimmyPesto",
+    "image": "https://i.pinimg.com/736x/14/dd/74/14dd741f464d43f67377d53bed559986--bobs-burgers-characters-belcher-family.jpg"
+  },
+  {
+    "id": 11,
+    "name": "PestoSr",
+    "image": "https://d1o51r9qdgnnlz.cloudfront.net/static_image/2f9c57c4-768c-4ca9-877f-29364e0b1b8b/static.jpg"
+  },
+  {
+    "id": 12,
+    "name": "AndyOllie",
+    "image": "https://i.pinimg.com/236x/e7/15/1c/e7151c2a9feebf65e7bc05625e790173--bobs-burgers-characters-bob-s.jpg"
+  }
+]
