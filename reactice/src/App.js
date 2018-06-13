@@ -39,7 +39,7 @@ class App extends Component {
       clickMessage = "Incorrect!"
 
       for (let i = 0; i < cards.length; i++) {
-        cardss[i].clicked = false;
+        cards[i].clicked = false;
       }
 
       this.setState({ clickMessage });
@@ -79,12 +79,12 @@ class App extends Component {
       bestScore = 12;
       this.setState({ bestScore });
 
-      for (let i = 0; i < matches.length; i++) {
+      for (let i = 0; i < cards.length; i++) {
         cards[i].clicked = false;
       }
 
       // Shuffle the array to be rendered in a random order
-      matches.sort(function (a, b) { return 0.5 - Math.random() });
+      cards.sort(function (a, b) { return 0.5 - Math.random() });
 
       // Set this.state.matches equal to the new matches array
       this.setState({ cards });
@@ -97,7 +97,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Bob's Burgers Memory Game</Title>
+  
 
         <h3 className="scoreSummary">
           {this.state.clickMessage}
